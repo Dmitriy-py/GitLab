@@ -13,6 +13,8 @@
 
 # Ответ:
 
+![Снимок экрана (926)](https://github.com/user-attachments/assets/37497012-e99c-4048-82fe-036e4a834273)
+
 ![Снимок экрана (921)](https://github.com/user-attachments/assets/242e545f-fbbb-487a-ab8b-e94945ca997d)
 
 ![Снимок экрана (924)](https://github.com/user-attachments/assets/7cfc4bef-9aaa-4b29-a47d-e68e3aaf093d)

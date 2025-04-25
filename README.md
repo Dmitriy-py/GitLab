@@ -36,5 +36,15 @@
 
 # Ответ:
 
+![Снимок экрана (925)](https://github.com/user-attachments/assets/43eb9873-a735-4c0d-bd24-200870694bce)
+
+![Снимок экрана (916)](https://github.com/user-attachments/assets/324b0939-741c-4fca-b337-0235e36264f8)
+
+![Снимок экрана (917)](https://github.com/user-attachments/assets/8ba0a6fe-244c-4f26-ba2b-b3d4b406ce7b)
+
+![Снимок экрана (919)](https://github.com/user-attachments/assets/b0bb7612-f62b-4708-ba92-5e1e7df17a0a)
+
+![Снимок экрана (920)](https://github.com/user-attachments/assets/ea3b398c-886f-40aa-b624-589fa23a801d)
+
 
 
